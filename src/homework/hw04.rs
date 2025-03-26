@@ -1,5 +1,5 @@
-const WIDTH: usize = 11; // Ширина конверта
-const HEIGHT: usize = 6; // Висота верхньої половини
+const WIDTH: usize  = 11; // Ширина конверта
+const HEIGHT: usize  = 6; // Висота верхньої половини
 
 fn main() {
     let mut output = String::new();
